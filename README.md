@@ -1,9 +1,9 @@
 # Marvin Dore:
 From Chemistry to Code 🧪 ➡️ 💻<br><br>
 I worked in a pharmacy for 10 years before trading chemical compounds for syntax. Now, I spend most<br>
-of my time trying to push the limits of computers and my journey into this career pivot of computer science,<br>
-seven years and counting.<br><br> 
-Today, I’m a Senior Software Engineer documenting my journey into the depths of algorithms, system design,<br>
+of my time pushing the limits of software and exploring the many domains of computer science,<br>
+so far seven years and counting.<br><br> 
+Today, I’m a Senior Software Engineer and content creator, documenting my experience with algorithms, system design,<br>
 and software engineering.<br><br>
 
 # Tech Stack:
